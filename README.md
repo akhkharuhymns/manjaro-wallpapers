@@ -1,2 +1,1 @@
-# manjaro-wallpapers
-# manjaro-wallpapers
+Wallpapers for Manjaro Linux
